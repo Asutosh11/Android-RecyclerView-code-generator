@@ -1,0 +1,38 @@
+// 1. Make sure you have imported either Design Support library or RecyclerView dependency in your gradle file
+
+// 2. Put this code in your Activity layout XML
+
+   
+   // You can give horizontal or Vertical Scrollbars to the RecyclerView.    
+
+   <android.support.v7.widget.RecyclerView
+    android:id="@+id/recycler_view"
+    android:scrollbars="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
+
+
+// 3. To use the RecyclerView in your Activity, use like this
+
+   YourModelName model = new YourModelName();
+   ArrayList<YourModelName> list = new ArrayList<YourModelName>();
+
+   model.<SetterMethod>();   
+   list.add(model);
+
+   RecyclerView recycler_view = (RecyclerView) findViewById(R.id.recycler_view);
+
+       
+   // use this if you want the RecyclerView to look like a vertical list view
+   recycler_view.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
+   
+   // use this if you want the RecyclerView to look like a grid view
+   recycler_view.setLayoutManager(new GridLayoutManager(this, 2));
+
+
+   YourAdapterName adapter = new YourAdapterName(list, this);
+   recycler_view.setAdapter(adapter);
+   
+    
+

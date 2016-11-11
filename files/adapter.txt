@@ -1,0 +1,58 @@
+
+public class TagAdapter extends RecyclerView.Adapter<TagAdapter.Viewholder> {
+
+    private ArrayList<TagsModel> data;
+    private TagsModel model;
+    private Context context;
+
+    public TagAdapter(ArrayList<TagsModel> data, Context context) {
+        this.data = data;
+        this.context = context;
+    }
+
+    public static class Viewholder extends RecyclerView.ViewHolder {
+
+        // 1. Declare your Views here
+        
+        public TextView tagText;
+
+        public Viewholder(View itemView) {
+            super(itemView);
+
+            // 2. Define your Views here
+            
+            tagText = (TextView)itemView.findViewById(R.id.tag_text);
+        }
+    }
+
+    @Override
+    public Viewholder onCreateViewHolder(ViewGroup parent, int viewType) {
+        View itemView = LayoutInflater.from(parent.getContext())
+                .inflate(R.layout.tags_row, parent, false);
+
+        return new Viewholder(itemView);
+    }
+
+    @Override
+    public void onBindViewHolder(Viewholder holder, int position) {
+
+        model = data.get(position);
+
+        // 3. set the data to your Views here
+
+         /**
+          *
+          The format to set data should be like this example:
+          --------------------------------------
+          holder.txvName.setText(model.getName());
+          *
+          */        
+
+    }
+
+    @Override
+    public int getItemCount() {
+        return data.size();
+    }
+
+}
