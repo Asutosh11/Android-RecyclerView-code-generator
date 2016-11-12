@@ -5,6 +5,15 @@ This is a web app that generates native Android RecyclerView Adapter and model c
 You can contribute to this project in any form if you want.
 If you want to use the source code, I would appreciate a credit in any form.
 
+1. <br>
+![Screenshot 1](https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/Screenshots/screen1.png "")
+
+2. <br>
+![Screenshot 2](https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/Screenshots/screen2.png "")
+
+3. <br>
+![Screenshot 3](https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/Screenshots/screen3.png "")
+
 
 
 
