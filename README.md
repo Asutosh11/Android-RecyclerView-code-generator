@@ -6,7 +6,7 @@ You can contribute to this project in any form if you want.
 If you want to use the source code, I would appreciate a credit in any form.
 
 <br>
-<b>How to use the source code to build your own clone ?</b>
+<b>How to use the source code to build your own clone ?</b><br>
 Just grab the code from here and paste it on your server that supports PHP. Thats it. The project doesn't use any database.
 <br>
 
