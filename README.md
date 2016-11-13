@@ -3,7 +3,8 @@ This is a web app that generates native Android RecyclerView Adapter and model c
 <a href = 'https://recyclerview-code-gen.herokuapp.com/'>Try the live web app here</a>
 
 You can contribute to this project in any form if you want.
-If you want to use the source code, I would appreciate a credit in any form.
+<a href = 'https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/License.md'>License for using this.</a>
+
 
 <br>
 <b>How to use the source code to build your own clone ?</b><br>
@@ -23,9 +24,8 @@ Just grab the code from here and paste it on your server that supports PHP. That
 3. <br>
 ![Screenshot 3](https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/Screenshots/screen3.png "")
 
-<br>
-<br>
-<a href = 'https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/License.md'>License</a>
+
+
 
 
 
