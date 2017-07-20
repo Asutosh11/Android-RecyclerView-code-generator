@@ -132,7 +132,7 @@ editor.setValue("");
   
 // code for Class start  
 var temp = "public class "+capitalizeFirstLetter(window.modelNameEntered)+" {\n\n"+    
-            " public String";
+            " private String";
 editor.insert(temp);
     
 // code to declare variables along with the 'public String' 3 lines above
