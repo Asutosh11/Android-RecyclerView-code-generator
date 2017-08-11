@@ -290,24 +290,13 @@ editor3.setValue("");
     
     
 });
-    
-   
 }    
-    
-    
-    
-    
-    
-
-
-
 
 });
 }
 return false;
 });
 });
-
 
 
 
