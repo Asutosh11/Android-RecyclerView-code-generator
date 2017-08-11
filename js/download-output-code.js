@@ -1,6 +1,9 @@
 /*
 This JS file is for
-the 'Download Class File' option for the 3 types of output code
+the 'Download Class File' option for the 3 types of output code.
+
+IMP: Don't have this feature enabled now on the app. But if you were to make a feature like that, I have made some basic structure here.
+     Make changes as per your need.
 */
 
 // for download file options
