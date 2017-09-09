@@ -1,7 +1,5 @@
 This is a web app that takes your RecyclerView row item XML layout code as input and generates native Android RecyclerView Adapter and model/POJO class code along with the implementation code.
 
-<a href = 'https://recyclerview-code-gen.herokuapp.com/'>Try the live web app here</a>
-
 You can contribute to this project in any form if you want.
 <a href = 'https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/License.md'>License for using this.</a>
 
