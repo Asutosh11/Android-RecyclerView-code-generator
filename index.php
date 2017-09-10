@@ -1,3 +1,9 @@
+<?php
+// A 301 redirect from the heroku sub domain to my custom domain
+header("Location: http://www.getrecyclerview.in/", true, 301);
+exit();
+?>
+
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
