@@ -1,6 +1,6 @@
 <?php
 // A 301 redirect from the heroku sub domain to my custom domain
-header("Location: http://www.getrecyclerview.in/", true, 301);
+header("Location: http://getrecyclerview.in/", true, 301);
 exit();
 ?>
 
