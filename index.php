@@ -23,8 +23,8 @@
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-106132847-1', 'auto');
   ga('send', 'pageview');
-</script>
-
+ </script>
+ 
 </head>
 
 <body>
