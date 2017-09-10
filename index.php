@@ -121,11 +121,6 @@
             <br>
             <a href="index.php" class="btn btn-default" id='generate-one-more' role="button">START AGAIN</a>
 
-            <br>
-            <br>
-            <a href="https://asutosh.herokuapp.com" class="btn btn-default" id='generate-one-more' role="button">Go To My Website</a>
-
-
 
 
 
