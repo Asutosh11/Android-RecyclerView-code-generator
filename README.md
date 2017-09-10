@@ -18,7 +18,7 @@ Just grab the code from here and paste it on your server that supports PHP. That
 3. <br>
 ![Screenshot 3](https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/Screenshots/screen3.png "")
 
-<br><br>
+<br>
 <a href = 'https://github.com/Asutosh11/Android-RecyclerView-code-generator/blob/master/License.md'>License for using this.</a>
 
 
