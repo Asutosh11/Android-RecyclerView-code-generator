@@ -1,9 +1,3 @@
-<?php
-// A 301 redirect from the heroku sub domain to my custom domain
-header("Location: http://getrecyclerview.in/", true, 301);
-exit();
-?>
-
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -12,6 +6,9 @@ exit();
 <html>
 
 <head>
+    
+    <link rel="canonical" href="http://www.getrecyclerview.in/"> 
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Android RecyclerView Native Code Generator</title>
