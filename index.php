@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <!--<link rel="stylesheet" href="./css/bootstrap.min.css">-->
     <link rel="stylesheet" href="./css/styles.css">
+    <link rel="shortcut icon" type="image/png" href="./images/favicon.ico"/>
     
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
