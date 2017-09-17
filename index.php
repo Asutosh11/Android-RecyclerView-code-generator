@@ -14,7 +14,7 @@
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Android RecyclerView Native Code Generator</title>
+    <title>Generate all the code to make a </title>
     <meta name="description" content="Generate Android RecyclerView native code">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
