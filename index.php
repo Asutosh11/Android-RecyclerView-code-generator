@@ -49,7 +49,7 @@
 
             <!-- the top title -->
             <ol class="breadcrumb">
-                This tool generates Model class and Adapter class code along with the RecyclerView implementaion code
+                This tool generates Model/POJO class and Adapter class code along with the RecyclerView implementaion code
             </ol>
 
             <div class='error alert alert-danger fadein' style='display:none'>
@@ -89,7 +89,7 @@
 
             <div class='output-form' style='display:none'>
 
-                <div class='output-title'>Model Class</div>
+                <div class='output-title'>Model/POJO Class</div>
                 <br>
                 <button type="submit" class="btn btn-default hide" id="copy-model" name='copy-model'>Download Class File</button>
                 <br>
