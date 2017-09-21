@@ -49,7 +49,7 @@
 
             <!-- the top title -->
             <ol class="breadcrumb">
-                This tool generates Model/POJO class and Adapter class code along with the RecyclerView implementaion code
+                Generate Model/POJO class and Adapter class code along with the RecyclerView implementaion code for your Activity
             </ol>
 
             <div class='error alert alert-danger fadein' style='display:none'>
