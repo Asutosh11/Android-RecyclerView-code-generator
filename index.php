@@ -61,12 +61,12 @@
 
             <div id='input-names-boxes-and-titles'>
 
-                <div class="input-title">Enter your Model Class name</div>
+                <div class="input-title">Enter your Model/POJO Class name</div>
                 <input type='text' class='input-names' id='model-class-name' text=''>
                 <br>
                 <br>
 
-                <div class="input-title">Enter your Adapter Class name</div>
+                <div class="input-title">Enter your RecyclerView Adapter Class name</div>
                 <input type='text' class='input-names' id='adapter-class-name' text=''>
                 <br>
                 <br>
