@@ -1,6 +1,7 @@
 This is a web app that takes your RecyclerView row item XML layout code as input and generates native Android RecyclerView Adapter and model/POJO class code along with the implementation code.
 
 The web app is hosted here for anyone to use - http://www.getrecyclerview.in/
+<br/>
 See the tutorial on how to use it - https://www.youtube.com/watch?v=1tTX_VKPg4o
 
 <br>
