@@ -1,5 +1,8 @@
 This is a web app that takes your RecyclerView row item XML layout code as input and generates native Android RecyclerView Adapter and model/POJO class code along with the implementation code.
 
+The web app is hosted here for anyone to use - http://www.getrecyclerview.in/
+See the tutorial on how to use it - https://www.youtube.com/watch?v=1tTX_VKPg4o
+
 <br>
 <b>How to use the source code to build your own clone ?</b><br>
 Just grab the code from here and paste it on your server that supports PHP. Thats it. The project doesn't use any database.
