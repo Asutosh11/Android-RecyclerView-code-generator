@@ -6,12 +6,6 @@
 <html>
 
 <head>
-    <!-- This is important if I have a heroku sub domain and also have a custom domain poiting to the same heroku hosting 
-         and I want to redirect my heroku dub domain to y custom domain -->
-    <!-- Its used if the same content is available in more than one URL and specifies that "http://www.getrecyclerview.in/" 
-         is the original place of this content. So any other page having this same content redirects to it. -->
-    <link rel="canonical" href="http://www.getrecyclerview.in/"> 
-    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>GetRecyclerView - Android RecyclerView Native Code Generator</title>
