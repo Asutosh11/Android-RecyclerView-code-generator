@@ -1,4 +1,4 @@
-<b>Note for Kotlin coders</b> - As of now, this tool only generates code in Java. I'm working for generating the code in Kotlin too. <br/><br/>
+<b>Note for Kotlin coders</b> - As of now, this tool only generates code in Java. For Kotlin, you can use the Java to Kotlin converter. <br/><br/>
 <b>Introduction about this tool</b><br/>
 This is a web app that takes your RecyclerView row item XML layout code as input and generates native Android RecyclerView Adapter and model/POJO class code along with the implementation code.
 
